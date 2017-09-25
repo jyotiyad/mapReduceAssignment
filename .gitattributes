@@ -1,0 +1,10 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+*.java eol=lf
+*.properties eol=lf
+*.conf eol=lf
+*.template eol=lf
+*.sh eol=lf
+
+*.keytab binary
